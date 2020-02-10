@@ -51,26 +51,23 @@
           
          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             
-            
-             <tr onmouseout="pvmicrogrid_stop()" onmouseover="pvmicrogrid_start()">
+          <tr onmouseout="font_stop()" onmouseover="font_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
-                <div class="two" id='pvmicrogrid_image'><img src='images/NitishPictureCircle.png'></div>
-                <img src='images/NitishPictureCircle.png'>
+                <div class="two" id='font_image'><img src='images/font_after.png'></div>
+                <img src='images/font_before.png'>
               </div>
               <script type="text/javascript">
-                function pvmicrogrid_start() {
-                  document.getElementById('pvmicrogrid_image').style.opacity = "1";
+                function font_start() {
+                  document.getElementById('font_image').style.opacity = "1";
                 }
 
-                function pvmicrogrid_stop() {
-                  document.getElementById('pvmicrogrid_image').style.opacity = "0";
+                function font_stop() {
+                  document.getElementById('font_image').style.opacity = "0";
                 }
-                pvmicrogrid_stop()
+                font_stop()
               </script>
             </td>
-     
-          
          
             <td style="padding:20px;width:75%;vertical-align:middle">
               <a href="https://ieeexplore.ieee.org/document/7853546">
