@@ -1,4 +1,4 @@
-body {
+/*body {
   font-family: 'Inter', sans-serif;
   font-size: 16px;
   color: #222;
@@ -51,8 +51,9 @@ a:hover {
 .photo img {
   width: 150px;
   border-radius: 50%;
-}
-/*
+}*/
+
+
 @font-face {
   font-family: 'Lato';
   font-style: italic;
@@ -183,4 +184,3 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
-*/
