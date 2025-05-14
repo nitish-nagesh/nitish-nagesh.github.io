@@ -51,6 +51,33 @@
       color: #888;
       padding: 40px 0 20px;
     }
+    section ul {
+    list-style: none;
+    padding-left: 0;
+    }
+
+    section li {
+    margin-bottom: 1.5em;
+    line-height: 1.5;
+    }
+
+    section li strong {
+    display: block;
+    font-size: 1.05rem;
+    margin-bottom: 0.2em;
+    }
+
+    section li em {
+    font-style: italic;
+    color: #666;
+    }
+
+    .location {
+    font-style: normal;
+    font-weight: normal;
+    color: #888;
+    font-size: 0.9rem;
+    }
   </style>
 </head>
 <body>
@@ -70,7 +97,7 @@
           I’m a Ph.D. student in Computer Science at the 
           <a href="https://www.ics.uci.edu" target="_blank">Donald Bren School of Information and Computer Sciences</a>, 
           <a href="https://www.uci.edu" target="_blank">UC Irvine</a>, advised by 
-          Prof. Amir M. Rahmani, Prof. Ramesh Jain, and Prof. Nikil Dutt.
+          Prof. Amir M. Rahmani.
         </p>
         
         <p>
@@ -91,64 +118,72 @@
         </p>
       
         <p>
-          Beyond academia, I’m passionate about <strong>entrepreneurship</strong> and 
+          Beyond academia, I’m passionate about entrepreneurship and 
           building impactful, equitable AI systems that can scale in the real world.
         </p>
       </section>
 
-    <section id="publications">
+      <section id="publications">
         <h2>Relevant Publications</h2>
-        <p>
-          Nitish Nagesh et al. “Assessment Of AI/ML Approaches For Qualitative Analysis In Obstructive Sleep Apnea,” <em>American Thoracic Society</em>, San Francisco, 2025.<br><br>
-          Mahyar Abbasian, Nitish Nagesh et al. “Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients,” <em>IEEE Medicine and Biology Conference</em>, 2024.<br><br>
-          Zhongqi Yang, Nitish Nagesh et al. “ChatDiet: Empowering personalized nutrition-oriented food recommender chatbots through an LLM-augmented framework,” <em>Elsevier Smart Health</em>, 2024.<br><br>
-          Ajan Subramanian, Nitish Nagesh et al. “Long Term Remote Patient Monitoring Reduces Blood Pressure in Patients with Stage II Hypertension,” <em>American Heart Association</em>, Chicago, 2024.<br><br>
-          Nitish Nagesh, Iman Azimi et al. “Towards Building Deep Personal Lifestyle Models using Multimodal N-of-1 Data,” <em>29th International Conference on Multimedia Modeling</em>, Norway, 2023.
-        </p>
+        <ul style="text-align: left; max-width: 800px; margin: auto;">
+          <li><strong>Nitish Nagesh</strong> et al. “Assessment Of AI/ML Approaches For Qualitative Analysis In Obstructive Sleep Apnea,” <em>American Thoracic Society</em>, San Francisco, 2025.</li>
+          <li><strong>Mahyar Abbasian, Nitish Nagesh</strong> et al. “Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients,” <em>IEEE Medicine and Biology Conference</em>, 2024.</li>
+          <li><strong>Zhongqi Yang, Nitish Nagesh</strong> et al. “ChatDiet: Empowering personalized nutrition-oriented food recommender chatbots through an LLM-augmented framework,” <em>Elsevier Smart Health</em>, 2024.</li>
+          <li><strong>Ajan Subramanian, Nitish Nagesh</strong> et al. “Long Term Remote Patient Monitoring Reduces Blood Pressure in Patients with Stage II Hypertension,” <em>American Heart Association</em>, Chicago, 2024.</li>
+          <li><strong>Nitish Nagesh, Iman Azimi</strong> et al. “Towards Building Deep Personal Lifestyle Models using Multimodal N-of-1 Data,” <em>Multimedia Modeling Conference</em>, Norway, 2023.</li>
+        </ul>
       </section>
 
       <section id="experience">
         <h2>Experience</h2>
       
-        <p><strong>Graduate Research Scientist</strong>, UC Irvine Institute for Future Health – Irvine, CA<br>
-        <em>June 2022 – Present</em><br>
-        - Built a causally fair, LLM-augmented synthetic data generation pipeline for health datasets (first-author paper in progress).<br>
-        - Co-developed an LLM-powered diet recommendation chatbot using real-world data (Elsevier Smart Health 2024).<br>
-        - Integrated nutrition and risk models into explainable diet agents (IEEE Medicine & Biology 2024).<br>
-        - Led causal inference on 3-year N-of-1 data to analyze caffeine's effect on HRV (first-author paper).</p>
+        <div style="max-width: 800px; margin: auto; text-align: left;">
+          <h3>Graduate Research Scientist – UC Irvine IFH, Irvine, CA <em>(June 2022 – Present)</em></h3>
+          <ul>
+            <li>Built a causally fair, LLM-augmented synthetic data generation pipeline (first-author paper in progress).</li>
+            <li>Co-developed a diet recommendation chatbot using health data (Elsevier Smart Health 2024).</li>
+            <li>Integrated nutrition models into explainable diet agents (IEEE Medicine & Biology 2024).</li>
+            <li>Led causal analysis on N-of-1 data studying caffeine's impact on HRV (first-author paper).</li>
+          </ul>
       
-        <p><strong>Research Data Scientist Intern</strong>, ResMed – San Diego, CA<br>
-        <em>June 2024 – Sept 2024</em><br>
-        - Built LangChain-based topic modeling for 6,000+ sleep apnea patients to personalize therapy.<br>
-        - Co-led clinical validation of product claims on pressure/wakefulness (ATS 2025 abstract).</p>
+          <h3>Research Data Scientist Intern – ResMed, San Diego, CA <em>(June 2024 – Sept 2024)</em></h3>
+          <ul>
+            <li>Built a LangChain-based topic modeling system for 6,000+ sleep apnea patients.</li>
+            <li>Co-led validation of clinical claims for therapy personalization (ATS 2025 abstract).</li>
+          </ul>
       
-        <p><strong>Data Scientist Intern</strong>, iHealth Labs – Sunnyvale, CA<br>
-        <em>June 2023 – Sept 2023</em><br>
-        - Led HIPAA-compliant aggregation and analysis for 12,000 patients in RPM program.<br>
-        - Co-developed personalized interventions for diabetes and hypertension (AHA 2024 poster).</p>
+          <h3>Data Scientist Intern – iHealth Labs, Sunnyvale, CA <em>(June 2023 – Sept 2023)</em></h3>
+          <ul>
+            <li>Led HIPAA-compliant data aggregation and analysis for 12,000 RPM patients.</li>
+            <li>Developed personalized interventions for diabetes and hypertension (AHA 2024).</li>
+          </ul>
       
-        <p><strong>Applied ML Intern</strong>, UC Irvine IFH – Irvine, CA<br>
-        <em>Sept 2021 – May 2022</em><br>
-        - Built a deep learning pipeline for retina image segmentation (31% optic disk accuracy).<br>
-        - Classified Fashion-MNIST using CNNs with 93% test accuracy after tuning.</p>
+          <h3>Applied ML Intern – UC Irvine IFH, Irvine, CA <em>(Sept 2021 – May 2022)</em></h3>
+          <ul>
+            <li>Built DL pipeline for retina segmentation (31% optic disk accuracy).</li>
+            <li>Classified Fashion-MNIST using CNNs (93% test accuracy with tuning).</li>
+          </ul>
       
-        <p><strong>Software Engineer</strong>, Qualcomm – Austin, TX<br>
-        <em>Mar 2021 – Aug 2021</em><br>
-        - Built a Python tool to parse 5,000 AI accelerator logs, cutting cycle time 3×.<br>
-        - Debugged ML SDKs and improved performance by 10% across benchmarks.</p>
+          <h3>Software Engineer – Qualcomm, Austin, TX <em>(Mar 2021 – Aug 2021)</em></h3>
+          <ul>
+            <li>Developed a Python tool for parsing 5,000 accelerator logs (3× speedup).</li>
+            <li>Improved ML SDK performance by 10% via debugging and feature tuning.</li>
+          </ul>
       
-        <p><strong>Teaching Assistant</strong>, University of California – Irvine, CA<br>
-        <em>Sept 2021 – Present</em><br>
-        - Led discussions, office hours, and forum support for courses in writing, programming languages, embedded systems, and data structures — reaching over 600 students.<br>
-        - Received >90% rating on interest stimulation, accessibility, and communication across 6 professors.</p>
+          <h3>Teaching Assistant – UC Irvine, Irvine, CA <em>(Sept 2021 – Present)</em></h3>
+          <ul>
+            <li>Led discussions, office hours, and online forums across 4+ CS courses, reaching 600+ students.</li>
+            <li>Received >90% ratings on engagement, accessibility, and communication.</li>
+          </ul>
       
-        <p><strong>Visiting Researcher</strong>, University of California – San Diego, CA<br>
-        <em>Sept 2019 – Feb 2021</em><br>
-        - Developed reliability-aware task allocation for IoT systems, reducing maintenance costs.<br>
-        - Built a real-world IoT mesh network using MQTT/Wi-Fi to study resource constraint effects.<br>
-        - Achieved 90% accuracy validating a Python/C++ simulation framework for reliability.</p>
+          <h3>Visiting Researcher – UC San Diego, San Diego, CA <em>(Sept 2019 – Feb 2021)</em></h3>
+          <ul>
+            <li>Developed reliability-aware task allocation strategies for IoT systems (Python).</li>
+            <li>Built a real-world IoT mesh network with MQTT/Wi-Fi communication.</li>
+            <li>Achieved 90% accuracy validating a reliability simulation framework (Python/C++).</li>
+          </ul>
+        </div>
       </section>
-
     <section id="contact">
       <h2>Contact</h2>
       <p>nnagesh1@uci.edu<br />
