@@ -1,0 +1,207 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Nitish Nagesh
+    - name: Email
+      value: nnagesh1@uci.edu
+    - name: Languages
+      value: English, Hindi, Kannada
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science
+      institution: University of California, Irvine, Irvine, CA
+      year: 2021-2026
+      description:
+        - GPA: 3.9
+        - Research focus: Causal inference, generative AI, and large language models for healthcare
+        - Advisor: Prof. Amir M. Rahmani
+    - title: MS in Computer Science
+      institution: University of California, Irvine, Irvine, CA
+      year: 2021-2023
+      description:
+        - GPA: 3.83
+        - Focus: Machine Learning and AI
+    - title: MS in Electrical & Computer Engineering
+      institution: Technical University of Munich, Munich, Germany
+      year: 2018-2020
+      description:
+        - GPA: 3.61
+        - Focus: IoT Systems and Reliability Engineering
+    - title: BE in Electrical & Electronics Engineering
+      institution: R.V. College of Engineering, Bangalore, India
+      year: 2012-2016
+      description:
+        - GPA: 3.74
+        - Focus: Power Systems and Control Engineering
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Graduate Research Scientist
+      institution: UC Irvine IFH, Irvine, CA
+      year: 2022-Present
+      description:
+        - Built a causally fair, LLM-augmented synthetic data generation pipeline (first-author paper in progress)
+        - Co-developed a diet recommendation chatbot using health data (Elsevier Smart Health 2024)
+        - Integrated nutrition models into explainable diet agents (IEEE Medicine & Biology 2024)
+        - Led causal analysis on N-of-1 data studying caffeine's impact on HRV (first-author paper)
+    - title: Research Data Scientist Intern
+      institution: ResMed, San Diego, CA
+      year: 2024
+      description:
+        - Built a LangChain-based topic modeling system for 6,000+ sleep apnea patients
+        - Co-led validation of clinical claims for therapy personalization (ATS 2025 abstract)
+    - title: Data Scientist Intern
+      institution: iHealth Labs, Sunnyvale, CA
+      year: 2023
+      description:
+        - Led HIPAA-compliant data aggregation and analysis for 12,000 RPM patients
+        - Developed personalized interventions for diabetes and hypertension (AHA 2024)
+    - title: Applied ML Intern
+      institution: UC Irvine IFH, Irvine, CA
+      year: 2021-2022
+      description:
+        - Built DL pipeline for retina segmentation (31% optic disk accuracy)
+        - Classified Fashion-MNIST using CNNs (93% test accuracy with tuning)
+    - title: Software Engineer
+      institution: Qualcomm, Austin, TX
+      year: 2021
+      description:
+        - Developed a Python tool for parsing 5,000 accelerator logs (3× speedup)
+        - Improved ML SDK performance by 10% via debugging and feature tuning
+    - title: Teaching Assistant
+      institution: UC Irvine, Irvine, CA
+      year: 2021-Present
+      description:
+        - Led discussions, office hours, and online forums across 4+ CS courses, reaching 600+ students
+        - Received >90% ratings on engagement, accessibility, and communication
+    - title: Visiting Researcher
+      institution: UC San Diego, San Diego, CA
+      year: 2019-2021
+      description:
+        - Developed reliability-aware task allocation strategies for IoT systems (Python)
+        - Built a real-world IoT mesh network with MQTT/Wi-Fi communication
+        - Achieved 90% accuracy validating a reliability simulation framework (Python/C++)
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: Assessment Of AI/ML Approaches For Qualitative Analysis In Obstructive Sleep Apnea
+      institution: American Thoracic Society, San Francisco
+      year: 2025
+      description:
+        - First author paper on AI/ML approaches for sleep apnea analysis
+    - title: Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients
+      institution: IEEE Medicine and Biology Conference
+      year: 2024
+      description:
+        - Co-authored paper on LLM-powered health agents
+    - title: ChatDiet: Empowering personalized nutrition-oriented food recommender chatbots through an LLM-augmented framework
+      institution: Elsevier Smart Health
+      year: 2024
+      description:
+        - Co-authored paper on personalized nutrition chatbots
+    - title: Long Term Remote Patient Monitoring Reduces Blood Pressure in Patients with Stage II Hypertension
+      institution: American Heart Association, Chicago
+      year: 2024
+      description:
+        - Co-authored paper on remote patient monitoring
+    - title: Towards Building Deep Personal Lifestyle Models using Multimodal N-of-1 Data
+      institution: Multimedia Modeling Conference, Norway
+      year: 2023
+      description:
+        - Co-authored paper on personal lifestyle modeling
+
+- title: Leadership & Service
+  type: time_table
+  contents:
+    - title: CS Dept. Representative
+      institution: DECADE, UC Irvine
+      year: 2021-Present
+      description:
+        - Collaborated with faculty/students to improve retention of minorities in grad programs
+        - Organized panel on "How to Excel in your Summer Internship" with speakers from Google, Amazon, etc.
+        - Led panel on LLMs, reproducibility, and computing's societal impact with 50+ attendees
+    - title: Lead Mentor
+      institution: Artificial Intelligence Club, UC Irvine
+      year: 2021-Present
+      description:
+        - Initiated "How to Apply to Grad School" series for 75+ students (5+ admits to CMU, UC Berkeley, etc.)
+        - Ran 10-week coding prep program for ML/software internships (15 students)
+        - Hosted sessions on research opportunities → helped 5+ students secure UROP & lab roles
+
+- title: Awards & Honors
+  type: time_table
+  contents:
+    - title: Beall Family Entrepreneur Award in Computer Science
+      institution: UC Irvine
+      year: 2024
+      description:
+        - $5,000 award for entrepreneurial excellence
+    - title: Professional Development Award
+      institution: UC Irvine
+      year: 2024
+      description:
+        - $500 award for DEI efforts
+    - title: Incoming Student Fellowship
+      institution: UC Irvine
+      year: 2021
+      description:
+        - $2,500 fellowship (1 of 350)
+    - title: Entrepreneurship Coaching Grant
+      institution: UC Irvine
+      year: 2024
+      description:
+        - $5,000 grant (2/year)
+    - title: Grad Slam 3-minute Research Pitch Semi-Finalist
+      institution: UC Irvine
+      year: 2022-2024
+      description:
+        - 1 of 50, 3 consecutive years
+    - title: International Student Scholarship
+      institution: Technical University of Munich
+      year: 2018
+      description:
+        - $2,500 scholarship (1 of 200)
+    - title: Master's Thesis Scholarship
+      institution: Technical University of Munich
+      year: 2020
+      description:
+        - $2,000 scholarship (1 of 50)
+    - title: Young Academy Scholar Cohort
+      institution: Technical University of Munich
+      year: 2019
+      description:
+        - 1 of 40 selected scholars
+    - title: Best Outgoing Student
+      institution: R.V. College of Engineering
+      year: 2016
+      description:
+        - 1st in 70 for all-round excellence
+    - title: Academic Excellence Award
+      institution: R.V. College of Engineering
+      year: 2016
+      description:
+        - 2nd in 70
+    - title: Most Innovative Thesis Award
+      institution: R.V. College of Engineering
+      year: 2016
+      description:
+        - 2nd in 70
+
+- title: Skills
+  type: map
+  contents:
+    - name: Programming Languages
+      value: Python, R, SQL, C++, JavaScript
+    - name: Machine Learning
+      value: PyTorch, TensorFlow, Scikit-learn, LangChain
+    - name: Data Science
+      value: Pandas, NumPy, Matplotlib, Seaborn
+    - name: Cloud & Deployment
+      value: AWS, Docker, Git, CI/CD
+    - name: Research Areas
+      value: Causal Inference, Generative AI, Large Language Models, Healthcare AI, Fairness in AI

@@ -1,0 +1,68 @@
+# Site settings
+title: Nitish Nagesh
+name: Nitish Nagesh
+description: CS PhD Student · AI for Health · Fairness · Causal Inference
+avatar: ./assets/img/avatar.jpg
+email: nnagesh1@uci.edu
+website: https://nitish-nagesh.github.io
+github: nitish-nagesh
+linkedin: nitish-nagesh
+twitter: 
+google_scholar: 
+cv: ./assets/pdf/cv.pdf
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  people:
+    output: true
+    permalink: /:collection/:name/
+  projects:
+    output: true
+    permalink: /:collection/:name/
+  posts:
+    output: true
+    permalink: /:collection/:name/
+  talks:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "people"
+    values:
+      layout: "person"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "talks"
+    values:
+      layout: "talk"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/ 
