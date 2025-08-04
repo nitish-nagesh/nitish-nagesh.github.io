@@ -1,0 +1,81 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Nitish Nagesh
+    - name: Current Position
+      value: PhD Student in Computer Science
+    - name: Institution
+      value: University of California, Irvine
+    - name: Languages
+      value: English, Hindi
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science
+      institution: University of California, Irvine
+      year: 2021-2026
+      description:
+        - GPA: 3.9
+        - Research focus: Causal inference, generative AI, and large language models for healthcare
+        - Advised by Prof. Amir M. Rahmani
+    - title: MS in Computer Science
+      institution: University of California, Irvine
+      year: 2021-2023
+      description:
+        - GPA: 3.83
+        - Focus: Machine Learning and AI
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Graduate Research Scientist
+      institution: UC Irvine IFH, Irvine, CA
+      year: 2022-Present
+      description:
+        - Built a causally fair, LLM-augmented synthetic data generation pipeline
+        - Co-developed a diet recommendation chatbot using health data
+        - Integrated nutrition models into explainable diet agents
+        - Led causal analysis on N-of-1 data studying caffeine's impact on HRV
+    - title: Research Data Scientist Intern
+      institution: ResMed, San Diego, CA
+      year: 2024
+      description:
+        - Built a LangChain-based topic modeling system for 6,000+ sleep apnea patients
+        - Co-led validation of clinical claims for therapy personalization
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: Assessment Of AI/ML Approaches For Qualitative Analysis In Obstructive Sleep Apnea
+      year: 2025
+      description:
+        - American Thoracic Society, San Francisco
+    - title: Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients
+      year: 2024
+      description:
+        - IEEE Medicine and Biology Conference
+    - title: ChatDiet: Empowering personalized nutrition-oriented food recommender chatbots through an LLM-augmented framework
+      year: 2024
+      description:
+        - Elsevier Smart Health
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      items:
+        - Python, R, SQL
+    - title: Machine Learning & AI
+      items:
+        - PyTorch, TensorFlow, LangChain
+    - title: Research Areas
+      items:
+        - Causal Inference, Generative AI, Large Language Models, Healthcare AI
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Research:</u> Building end-to-end AI applications from data engineering to model deployment
+    - <u>Focus:</u> Making AI fair, explainable, and clinically useful
