@@ -34,6 +34,11 @@ permalink_name: home
       {{ content }}
     </div>
 
+    <!-- TEST BANNER -->
+    <div style="background: green; color: white; padding: 20px; margin: 20px; text-align: center; font-size: 24px; border-radius: 10px;">
+      🎉 ALO-FOLIO THEME IS NOW ACTIVE! 🎉
+    </div>
+
     {% if page.news -%}
     <!-- News -->
     {%- include news.html %}
