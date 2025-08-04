@@ -34,9 +34,11 @@ permalink_name: home
       {{ content }}
     </div>
 
-    <!-- TEST BANNER -->
-    <div style="background: green; color: white; padding: 20px; margin: 20px; text-align: center; font-size: 24px; border-radius: 10px;">
-      🎉 ALO-FOLIO THEME IS NOW ACTIVE! 🎉
+    <!-- FORCE REBUILD TEST -->
+    <div style="background: blue; color: white; padding: 30px; margin: 30px; text-align: center; font-size: 28px; border-radius: 15px; font-weight: bold;">
+      🚀 Jekyll al-folio theme is now active! 🚀
+      <br>
+      <small>If you see this blue banner, Jekyll is working!</small>
     </div>
 
     {% if page.news -%}
