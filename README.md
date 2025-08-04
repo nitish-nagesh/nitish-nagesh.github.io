@@ -92,4 +92,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Built with [Jekyll](https://jekyllrb.com/)
 - Styled with modern CSS
-- Icons from [Favicon Farm](https://fav.farm/) 
+- Icons from [Favicon Farm](https://fav.farm/) # Force rebuild
