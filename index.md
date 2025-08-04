@@ -29,7 +29,20 @@ title: home
     {% endif %}
 
     <div class="clearfix">
-      {{ content }}
+      <h2>Welcome to my academic website!</h2>
+      <p>This is the new al-folio theme in action. If you can see this message, the theme is working correctly.</p>
+      
+      <h3>About Me</h3>
+      <p>I'm a Ph.D. student in Computer Science at UC Irvine, focusing on causal inference, generative AI, and large language models for healthcare.</p>
+      
+      <h3>Research Areas</h3>
+      <ul>
+        <li>Causal Inference</li>
+        <li>Generative AI</li>
+        <li>Large Language Models</li>
+        <li>Healthcare AI</li>
+        <li>Fairness in AI</li>
+      </ul>
     </div>
 
     {% if page.news %}
