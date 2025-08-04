@@ -53,3 +53,8 @@ title: home
   </article>
 
 </div>
+
+<!-- TEST: AL-FOLIO THEME IS WORKING! -->
+<div style="background: red; color: white; padding: 20px; margin: 20px; text-align: center; font-size: 24px;">
+  🎉 AL-FOLIO THEME IS NOW ACTIVE! 🎉
+</div>
