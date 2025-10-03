@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Computer Science, UC Irvine
 
 profile:
   align: right
-  image: nitish_prof_pic.jpg
+  image: nitish_prof_pic_02.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
