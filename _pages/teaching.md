@@ -2,11 +2,33 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+description: Teaching Assistant at University of California, Irvine
+nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Teaching Assistant, University of California Irvine
 
-Organize your courses by years, topics, or universities, however you like!
+### **ICS 139W - Critical Writing on Information Technology**
+Fall 2021, Winter 2022, Spring 2022, Fall 2022, Winter 2023, Spring 2023, Summer 2023, Fall 2023, Fall 2024
+
+### **CS295P - Capstone Writing and Communication**
+Spring 2024
+
+### **CS122A - Database Management**
+Winter 2024
+
+### **CS145 - Embedded Software**
+Winter 2024
+
+### **ICS 6B - Boolean Logic and Discrete Structures**
+Summer 2024
+
+### **CS143A - Principles of Operating Systems**
+Summer 2025
+
+### **CS141 - Programming Languages**
+Fall 2024
+
+### **ICS 46 - Data Structures**
+Winter 2025
