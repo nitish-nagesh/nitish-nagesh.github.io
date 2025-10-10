@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Computer Science, UC Irvine; On the job market
+subtitle: Ph.D. Candidate in Computer Science, UC Irvine
 
 profile:
   align: right
@@ -24,24 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Nitish Nagesh is a Ph.D. candidate in Computer Science at the University of California, Irvine, affiliated with the Institute for Future Health. His research focuses on causal inference, synthetic data generation, and fairness to tackle challenges in health and medicine. His work has been featured in IEEE Medicine & Biology, Elsevier Smart Health, the American Heart Association, and the American Diabetes Association. He has received UC Irvine's Beall Family Entrepreneur Award, the TU Munich Young Academy Scholarship, and the Best Outgoing Student award in Electrical Engineering at R.V. College. Outside of work, he enjoys science communication and mentoring students from diverse backgrounds.
+I am interested in trustworthy and explainable AI for health applications.
 
-## Education
+As a Ph.D. candidate in Computer Science at UC Irvine, I specialize in fairness-aware causal inference and large language models for health applications. My research has been published in top-tier venues like IEEE Medicine & Biology and Elsevier Smart Health, American Heart Association, and the American Diabetes Association.
 
-**Ph.D. in Computer Science** | September 2021 - June 2026 (expected)
+I am the recipient of UC Irvine's Beall Family Entrepreneur Award, the TU Munich Young Academy Scholarship, and the Best Outgoing Student award in Electrical Engineering at R.V. College.
 
-University of California, Irvine
+I have expertise in Python, R, SQL, PyTorch, TensorFlow, and LangChain.
 
-_Thesis Committee: Amir Rahmani (Advisor), Ramesh Jain, Nikil Dutt_
-
-**M.S. in Computer Science** | September 2021 - June 2023
-
-University of California, Irvine
-
-**M.Sc. in Power Engineering** | September 2018 - December 2020
-
-Technical University of Munich, Germany
-
-**B.E. in Electrical and Electronics Engineering** | September 2012 - June 2016
-
-R.V. College of Engineering, India
+Outside of work, I enjoy science communication and mentoring people from diverse backgrounds.
