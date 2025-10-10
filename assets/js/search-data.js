@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/honors/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Teaching Assistant at University of California, Irvine",
