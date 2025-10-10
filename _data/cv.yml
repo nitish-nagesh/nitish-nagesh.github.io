@@ -6,7 +6,7 @@
     - name: Email
       value: nitishnagesh101@gmail.com
     - name: Languages
-      value: English, Hindi, Kannada
+      value: English, Kannada, Telugu, Tamil, Hindi
 
 - title: Education
   type: time_table
@@ -94,6 +94,6 @@
 - title: Skills
   type: list
   contents:
-    - <u>Research:</u> Causal inference, Machine learning, Fairness, Synthetic data generation
-    - <u>Programming:</u> Python, R, SQL
-    - <u>Tools:</u> TensorFlow, PyTorch, Git
+    - <u>Programming Languages:</u> Python, R, SQL
+    - <u>Software Tools and Packages:</u> PyTorch, TensorFlow, Langchain, SciPy, Scikit-learn, Git, Snowflake
+    - <u>Hardware:</u> Oscilloscope, Logic Analyzers, Arduino, Raspberry Pi, NodeMCU
