@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Computer Science, UC Irvine
+subtitle: Ph.D. Candidate in Computer Science, UC Irvine; On the job market
 
 profile:
   align: right
@@ -29,14 +29,19 @@ Nitish Nagesh is a Ph.D. candidate in Computer Science at the University of Cali
 ## Education
 
 **Ph.D. in Computer Science** | September 2021 - June 2026 (expected)
+
 University of California, Irvine
+
 _Thesis Committee: Amir Rahmani (Advisor), Ramesh Jain, Nikil Dutt_
 
 **M.S. in Computer Science** | September 2021 - June 2023
+
 University of California, Irvine
 
 **M.Sc. in Power Engineering** | September 2018 - December 2020
+
 Technical University of Munich, Germany
 
 **B.E. in Electrical and Electronics Engineering** | September 2012 - June 2016
+
 R.V. College of Engineering, India
