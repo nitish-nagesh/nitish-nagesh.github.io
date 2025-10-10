@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-teaching",
+  },{id: "nav-honors-amp-awards",
+          title: "honors &amp; awards",
+          description: "Recognition and achievements",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/honors/";
+          },
+        },{id: "nav-teaching",
           title: "teaching",
           description: "Teaching Assistant at University of California, Irvine",
           section: "Navigation",
