@@ -9,6 +9,11 @@ profile:
   image: nitish_prof_pic_02.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>3211 Donald Bren Hall</p>
+    <p>University of California Irvine</p>
+    <p>Irvine, CA 92617</p>
+    <p>Cell: +1 (858) 888-1526</p>
+    <p>Email: nnagesh1@uci.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
