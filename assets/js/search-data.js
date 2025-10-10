@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-leadership-amp-service",
+          title: "leadership &amp; service",
+          description: "Community engagement and service activities",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/service/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
