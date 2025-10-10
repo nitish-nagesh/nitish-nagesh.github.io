@@ -17,7 +17,7 @@ Bob & Barbara Kleist Endowed Graduate Fellowship $2,500, 2023
 
 Beall Butterworth Product Design Competition (1st place, Brazil Trip), 2023
 
-Best Social Media Reporter, ACM Multimedia Conference, 2022
+Best Social Media Reporter ACM Multimedia Conference, 2022
 
 Student Travel Grant $2,000, ACM Multimedia Conference, 2022
 
@@ -33,7 +33,7 @@ Incoming Graduate Student Fellowship $2,500 (1 of 350), 2021
 
 Academic Excellence Scholarship $2,500 (1 of 200), 2019 - 2020
 
-Masters Thesis Abroad Scholarship $2,000 (1 of 50), 2020 - 2021
+Masters Thesis Abroad Scholarship US$2,000 (1 of 50), 2020 - 2021
 
 TUM: Junge Akademie Scholar (1 of 40), 2018 - 2020
 
