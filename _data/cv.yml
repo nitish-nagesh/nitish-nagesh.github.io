@@ -2,96 +2,98 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Nitish Nagesh
+    - name: Email
+      value: nitishnagesh101@gmail.com
     - name: Languages
-      value: English, German
+      value: English, Hindi, Kannada
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Computer Science
+      institution: University of California, Irvine
+      year: 2021 - 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Thesis Committee Amir Rahmani (Advisor), Ramesh Jain, Nikil Dutt
+        - Research focus on causal inference, synthetic data generation, and fairness for health and medicine
+    - title: M.S. in Computer Science
+      institution: University of California, Irvine
+      year: 2021 - 2023
+    - title: M.Sc. in Power Engineering
+      institution: Technical University of Munich, Germany
+      year: 2018 - 2020
+    - title: B.E. in Electrical and Electronics Engineering
+      institution: R.V. College of Engineering, India
+      year: 2012 - 2016
 
-- title: Experience
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Teaching Assistant
+      institution: University of California, Irvine
+      year: 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - ICS 139W Critical Writing on Information Technology (9 quarters)
+        - CS295P Capstone Writing and Communication
+        - CS122A Database Management
+        - CS145 Embedded Software
+        - ICS 6B Boolean Logic and Discrete Structures
+        - CS143A Principles of Operating Systems
+        - CS141 Programming Languages
+        - ICS 46 Data Structures
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Beall Family Entrepreneur Award in Computer Science $5,000
+        - Grad Slam Semifinalist
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Bob & Barbara Kleist Endowed Graduate Fellowship $2,500
+        - Beall Butterworth Product Design Competition (1st place, Brazil Trip)
+        - Grad Slam Semifinalist
+    - year: 2022
+      items:
+        - Best Social Media Reporter, ACM Multimedia Conference
+        - Student Travel Grant $2,000, ACM Multimedia Conference
+        - Mental Health Hackathon Winner $3,500 (1 of 30)
+        - Grad Slam Semifinalist
+    - year: 2021
+      items:
+        - Elevator Pitch Competition 2nd place (out of 10), GPS-STEM
+        - Incoming Graduate Student Fellowship $2,500 (1 of 350)
+    - year: 2019 - 2020
+      items:
+        - Academic Excellence Scholarship $2,500 (1 of 200), TU Munich
+        - TUM Junge Akademie Scholar (1 of 40)
+    - year: 2020 - 2021
+      items:
+        - Masters Thesis Abroad Scholarship $2,000 (1 of 50), TU Munich
+    - year: 2012 - 2016
+      items:
+        - Best Outgoing Student (1st in 70), R.V. College of Engineering
+        - Academic Excellence Award (2nd in 70), R.V. College of Engineering
+        - Innovative Thesis Award (2nd in 70), R.V. College of Engineering
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Causal Inference
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Synthetic data generation
+        - Fairness in machine learning
+    - title: Health & Medicine Applications
       items:
-        - Description 1.
-        - Description 2.
+        - Digital health interventions
+        - Patient monitoring systems
+        - Personalized nutrition
 
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Research:</u> Causal inference, Machine learning, Fairness, Synthetic data generation
+    - <u>Programming:</u> Python, R, SQL
+    - <u>Tools:</u> TensorFlow, PyTorch, Git
