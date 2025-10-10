@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Download [Academic CV](/assets/pdf/Nitish_Nagesh_CV_Academic.pdf) | [Industry CV](/assets/pdf/Nitish_Nagesh_CV_Industry.pdf)",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
