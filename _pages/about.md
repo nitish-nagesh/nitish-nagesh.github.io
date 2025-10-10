@@ -8,6 +8,7 @@ profile:
   align: right
   image: nitish_prof_pic_02.jpg
   image_circular: false # crops the image to make it circular
+  image_alt: Nitish Nagesh - Ph.D. Candidate in Computer Science at UC Irvine
   more_info: >
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
