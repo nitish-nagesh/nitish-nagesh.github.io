@@ -27,6 +27,46 @@
       institution: R.V. College of Engineering, India
       year: 2012 - 2016
 
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Graduate Student Researcher
+      institution: University of California, Irvine
+      year: 2022 - Present
+      description:
+        - Build novel LLM-augmented causally fair synthetic data generation pipeline using Python, R to reduce bias in real-world health datasets; first-author publication in IEEE Medicine and Biology conference.
+        - Assisted in conceptualizing an LLM-powered framework for a diet recommendation chatbot using health data, achieving 92% effectiveness; co-authored publication in Elsevier Smart Health Journal.
+        - Integrated dietary guidelines and nutrition calculation tools into LLM-based health agents, enabling explainable diet risk assessments; co-authored publication in IEEE Medicine and Biology conference.
+        - Developed a causal inference framework using Python for a 3-year N-of-1 observational dataset to analyze the effect of caffeine on heart rate variability; first-author paper in computing conference.
+    - title: Visiting Researcher
+      institution: University of California, San Diego
+      year: 2019 - 2021
+      description:
+        - Developed novel reliability-aware task allocation strategies for IoT networks using Python to reduce overall maintenance cost.
+        - Built a real-world IoT mesh network communicating via MQTT and Wi-Fi to measure impact of resource constraints on reliability leading to 3 co-authored publications in top-tier system conferences.
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Research Data Scientist Intern
+      institution: ResMed, San Diego, CA
+      year: 2024
+      description:
+        - Built LLM-powered topic modeling framework to analyze quantitative data for 6,000 sleep apnea patients using LLMs and Langchain in Python, improving therapy personalization.
+        - Collaborated with an interdisciplinary team of 5 researchers to refine product claims related to pressure and wakefulness in sleep apnea patients; first-author abstract in American Thoracic Society 2025.
+    - title: Data Scientist Intern
+      institution: iHealth Labs, Sunnyvale, CA
+      year: 2023
+      description:
+        - Led de-identification, aggregation, and analysis of data for 12,000 patients in a remote patient monitoring program, adhering to HIPAA guidelines, resulting in an academia-industry partnership.
+        - Collaborated with a cross-functional team to develop personalized interventions for diabetes and hypertension management; co-authored abstract and poster at American Heart Association 2024.
+    - title: Research and Development Engineer
+      institution: Qualcomm, Austin, TX
+      year: 2021
+      description:
+        - Developed a Python tool to parse 5,000 logs from the Qualcomm AI accelerator, reducing cycle time by 3x and lowering upstream production costs.
+        - Triaged and debugged failures in three ML accelerator SDKs through feature engineering and model evaluation, resulting in a 10% performance improvement across internal benchmarks.
+
 - title: Teaching Experience
   type: time_table
   contents:
