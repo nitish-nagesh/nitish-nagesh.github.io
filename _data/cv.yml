@@ -4,7 +4,15 @@
     - name: Full Name
       value: Nitish Nagesh
     - name: Email
-      value: nitishnagesh101@gmail.com
+      value: nnagesh1@uci.edu
+    - name: Phone
+      value: +1 (858) 888-1526
+    - name: Address
+      value: 3211 Donald Bren Hall, UC Irvine, Irvine, CA 92617
+    - name: Website
+      value: https://nitish-nagesh.github.io/
+    - name: LinkedIn
+      value: https://www.linkedin.com/in/nitish-nagesh/
     - name: Languages
       value: English, Kannada, Telugu, Tamil, Hindi
 
