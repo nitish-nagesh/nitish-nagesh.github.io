@@ -1,65 +1,101 @@
 ---
 layout: page
-title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+title: projects
+description: Research and course projects
+nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+## Independent Research Projects
 
-{% else %}
+**Food Mood Buddy** | Jan. 2023 – Dec. 2023
+Irvine, CA | Supervisor: Prof. Dr. Ramesh Jain
 
-<!-- Display projects without categories -->
+Develop personalized AI-driven food recommendation system to improve mood through dietary interventions.
+Built dataset to track and analyze food, exercise, sleep, physiology, circadian rhythm and mental health state.
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+---
 
-  <!-- Generate cards for each project -->
+## Machine Learning & AI Projects
 
-{% if page.horizontal %}
+**Image Segmentation using Deep Learning** | Mar. 2023 – Jun. 2023
+Irvine, CA | Course Project, Supervisor: Prof. Dr. Pierre Baldi
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+Implemented and evaluated image segmentation pipeline using TensorFlow and Segment Anything (SAM).
+Achieved IoU=0.31 for optic disk and IoU=0.08 for fovea segmentation for automated retinal anomaly detection.
+
+**Natural Language Processing Implementation** | Apr. 2022 – Jun. 2022
+Irvine, CA | Course Project, Supervisor: Prof. Dr. Sameer Singh
+
+Classified presidential candidate speeches via supervised and semi-supervised learning in Python/TensorFlow.
+Built n-gram language models on the Brown, Gutenberg and Reuters corpuses. Analyzed in-domain and out-of-domain perplexities to compare language models and individual sentences.
+Developed a part-of-speech (POS) and named entity recognition (NER) tagger for twitter data using Conditional Random Fields (CRF) and incorporated Viterbi algorithm to improve CRF accuracy.
+Implemented top-K sampling, nucleus sampling, beam search decoding algorithms and evaluated summarization models qualitatively and quantitatively using Python/TensorFlow.
+
+**Slot Descriptions in Self-Attentive Dialogue State Tracking (DST)** | Apr. 2022 – Jun. 2022
+Irvine, CA | Course Project, Supervisor: Prof. Dr. Sameer Singh
+
+Implemented full-shot and zero-shot dialogue state tracking on MultiWoz 2.1 dataset with 5 domains and 8438 dialogues using Python/TensorFlow to transfer knowledge from resource rich domains to unknown domains
+Deployed BERT base model and evaluated accuracy for inserting slot descriptions in zero-shot and full-shot DST
+
+**Fashion MNIST Classification using Convolutional Neural Networks** | Sep. 2021 – Dec. 2021
+Irvine, CA | Course Project, Supervisor: Prof. Dr. Roy Fox
+
+Classified fashion-MNIST dataset running convolutional neural networks (CNN) on Google Colab using Python
+Achieved 95.88% training accuracy and 93% test accuracy after hyperparameter tuning and cross-validation
+
+**Reinforcement Learning and Machine Learning Algorithm Design** | Sep. 2021 – Dec. 2021
+Irvine, CA | Course Project, Supervisor: Prof. Dr. Roy Fox
+
+Programmed reinforcement learning agent using Monte Carlo Tree Search in Python to solve Sokoban puzzle
+Designed and implemented machine learning algorithms using kNN, Naïve Bayes classifiers, linear regression, cross-validation, logistic regression, shattering, nearest neighbor, decision trees, neural networks, and clustering
+
+---
+
+## Web Development & Data Science Projects
+
+**Web Crawler and Search Engine Builder** | Jan. 2022 – Mar. 2022
+Irvine, CA | Course Project, Supervisor: Prof. Pramit Choudhary
+
+Crawled 50,000 URLs from ics.uci.edu domain using Python to find page similarity and subdomains
+Built search engine using Flask, HTML, CSS to query and retrieve top twenty matches from crawled databases
+
+**Interactive Global Energy Consumption Dashboard** | Apr. 2020 – Jul. 2020
+San Diego, CA | Lab Project, Supervisor: Prof. Dr. Thomas Hamacher
+
+Developed first-of-its-kind energy parameter visualization platform for 200+ countries using Dash
+Deployed scalable and globally accessible website using Heroku sourcing data from a structured SQL database using SQLite
+Actualized user-friendly interface for parameters with customizable checkboxes and predictions using logistic regression in Python
+
+---
+
+## Embedded Systems & Hardware Projects
+
+**Algorithm Design and Benchmarking for FPGA** | Jan. 2020 – Mar. 2020
+San Diego, CA | Course Project, Supervisor: Prof. Dr. Ryan Kastner
+
+Achieved average 85% throughput for FIR filter, DFT, FFT using Vivado High Level Synthesis (HLS)
+Added a new benchmark to Spector HLS, a benchmark suite for FPGA by implementing canonized Huffman Encoding in C++
+Optimized design space with 15% higher throughput range and 60% greater pareto points compared to baseline
+
+**Real-time Soil Environment Monitor with Pest Deterrence** | Jan. 2020 – Mar. 2020
+San Diego, CA | Course Project, Supervisor: Prof. Dr. Tajana Rosing
+
+Outperformed traditional sensing techniques with remote soil sensing and active real-time pest deterrence using Linux, C/C++
+Introduced predictive capabilities within 10% sensing range based on linear regression using the Scikit-learn library in Python
+Visualized soil vitals on an interactive online dashboard developed using HTML, CSS, Flask, and JavaScript
+
+**Contactless Trash Weight Estimator** | Sep. 2019 – Dec. 2019
+San Diego, CA | Course Project, Supervisor: Prof. Dr. Aaron Schulman
+
+Attained 70% accuracy in determining an unknown amount of grocery waste using C/C++ and principles of RF attenuation
+Observed less than 25% standard deviation during prototype testing using received signal strength indicator (RSSI) metric
+Realized hands-off food waste estimation without modifying existing trash bin structure by simple retrofitted add-ons
+
+**Real-time Wireless Ambient Temperature Sensing** | Jun. 2019 – Aug. 2019
+Munich, Germany | Lab Project, Supervisor: Prof. Dr. Markus Becherer
+
+Developed wireless temperature sensing framework using a resistance temperature detector (RTD) sensor with less than 0.2 variation between sensed and actual values
+Achieved 20% less external noise interference using a Sallen-Key low-pass filter in read-out circuit built using PSoC creator
+Executed real-time secure communication with less than 5% latency using C/C++ with data encapsulation and visualization
