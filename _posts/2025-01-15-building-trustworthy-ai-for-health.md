@@ -7,7 +7,7 @@ author: Nitish Nagesh
 tags: [AI, health, causal-inference, fairness, research]
 categories: [research]
 featured: true
-thumbnail: /assets/img/prof_pic_color.png
+thumbnail: assets/img/nitish_prof_pic_02.jpg
 ---
 
 As a Ph.D. candidate specializing in trustworthy AI for health applications, I've witnessed firsthand the transformative potential of artificial intelligence in healthcare. However, with great power comes great responsibility—especially when dealing with sensitive health data and life-critical decisions.

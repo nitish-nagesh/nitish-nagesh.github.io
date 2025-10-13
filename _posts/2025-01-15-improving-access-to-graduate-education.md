@@ -7,7 +7,7 @@ author: Nitish Nagesh
 tags: [education, diversity, graduate-school, research, leadership]
 categories: [research]
 featured: true
-thumbnail: /assets/img/prof_pic_color.png
+thumbnail: assets/img/nitish_prof_pic_02.jpg
 ---
 
 When I was applying to PhD programs, I encountered a significant gap in available resources. While CSrankings lists professors, their research areas, and links to their websites, there was no consolidated list that contained all potential PhD openings at universities like UC Irvine.
