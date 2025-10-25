@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Exciting Opportunities in AI, Healthcare, and Research - December 2025"
-date: 2025-10-22
+date: 2024-12-15
 description: "Discovering amazing opportunities in AI-based protein design, healthcare R&D leadership, and biomedical data science research programs."
 author: Nitish Nagesh
 tags: [opportunities, AI, healthcare, research, internships, careers]
 categories: [opportunities]
 featured: true
+thumbnail: assets/img/nitish_prof_pic_02.jpg
 ---
 
 As I've been exploring post-PhD career paths and opportunities, I've come across some incredible programs that align perfectly with my interests in AI, healthcare, and research. I wanted to share these opportunities with my network, as they might be relevant for other graduate students and researchers in similar fields.

@@ -11,3 +11,9 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+# Private contact management system
+contact_manager/
+
+# Private newsletter system
+newsletter/
