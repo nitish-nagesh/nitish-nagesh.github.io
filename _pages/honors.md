@@ -19,7 +19,7 @@ Beall Butterworth Product Design Competition (1st place, International Track), 2
 
 Best Social Media Reporter ACM Multimedia Conference, 2022
 
-Student Travel Grant $2,000, ACM Multimedia Conference, 2022
+Student Travel Grant, ACM Multimedia Conference, 2022
 
 Mental Health Hackathon Winner (1 of 30), 2022
 

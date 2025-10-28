@@ -7,7 +7,6 @@ author: Nitish Nagesh
 tags: [opportunities, AI, healthcare, research, internships, careers]
 categories: [opportunities]
 featured: true
-thumbnail: assets/img/nitish_prof_pic_02.jpg
 ---
 
 As I've been exploring post-PhD career paths and opportunities, I've come across some incredible programs that align perfectly with my interests in AI, healthcare, and research. I wanted to share these opportunities with my network, as they might be relevant for other graduate students and researchers in similar fields.

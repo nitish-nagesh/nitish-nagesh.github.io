@@ -7,7 +7,6 @@ author: Nitish Nagesh
 tags: [opportunities, AI, healthcare, research, internships, careers]
 categories: [opportunities]
 featured: true
-thumbnail: assets/img/nitish_prof_pic_02.jpg
 ---
 
 # Opportunities

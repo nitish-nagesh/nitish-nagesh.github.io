@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching Assistant at University of California, Irvine
+description: teaching experiences
 nav: true
 nav_order: 6
 ---
