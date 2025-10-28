@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Teaching Assistant at University of California, Irvine",
+          description: "teaching experiences",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
