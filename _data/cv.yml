@@ -117,38 +117,38 @@
   contents:
     - year: 2025
       items:
-        - title: FairTabGen: Unifying Counterfactual & Causal Fairness for Synthetic Tabular Data Generation
+        - title: "FairTabGen: Unifying Counterfactual & Causal Fairness for Synthetic Tabular Data Generation"
           contents:
-            - Stanford AI+HEALTH Conference (2025)
-            - Stanford Data Science Conference (2025)
-        - title: FairCauseSyn: Towards Causally Fair LLM-Augmented Synthetic Data Generation
+            - "Stanford AI+HEALTH Conference (2025)"
+            - "Stanford Data Science Conference (2025)"
+        - title: "FairCauseSyn: Towards Causally Fair LLM-Augmented Synthetic Data Generation"
           contents:
-            - Conference on Health, Inference, & Learning, Doctoral Symposium, CA (2025)
-            - IEEE Engineering in Medicine and Biology Conference, Denmark (2025)
-        - LLMs/AI tools on a Daily Basis, Pacific Club, Newport Beach, CA (2025)
+            - "Conference on Health, Inference, & Learning, Doctoral Symposium, CA (2025)"
+            - "IEEE Engineering in Medicine and Biology Conference, Denmark (2025)"
+        - "LLMs/AI tools on a Daily Basis, Pacific Club, Newport Beach, CA (2025)"
     - year: 2023
       items:
-        - title: FoodMoodAlly
+        - title: "FoodMoodAlly"
           contents:
-            - Grad Slam, UC Irvine, CA (2022-2024)
-            - Anteater Family Weekend Grad Slam, Irvine, CA (2023)
-        - title: Towards deep personal lifestyle models using multimodal N-of-1 data
+            - "Grad Slam, UC Irvine, CA (2022-2024)"
+            - "Anteater Family Weekend Grad Slam, Irvine, CA (2023)"
+        - title: "Towards deep personal lifestyle models using multimodal N-of-1 data"
           contents:
-            - International Conference on Multimedia Modeling, Norway (2023)
-        - title: Building Diet and Well-being Recommendation Systems for Lifestyle Management
+            - "International Conference on Multimedia Modeling, Norway (2023)"
+        - title: "Building Diet and Well-being Recommendation Systems for Lifestyle Management"
           contents:
-            - Stanford Prevention Research Center (SPRC) (2023)
+            - "Stanford Prevention Research Center (SPRC) (2023)"
     - year: 2022
       items:
-        - title: Building Diet and Well-being Recommendation Systems for Lifestyle Management
+        - title: "Building Diet and Well-being Recommendation Systems for Lifestyle Management"
           contents:
-            - IIIT-Delhi, India (2022)
-        - title: World Food Atlas for Food Navigation
+            - "IIIT-Delhi, India (2022)"
+        - title: "World Food Atlas for Food Navigation"
           contents:
-            - Workshop on Multimedia Assisted Dietary Management, Portugal (2022)
-            - INRAE, Paris (2022)
-            - University of Barcelona, Spain (2022)
-            - Food and Agricultural Organization, Italy (2022)
+            - "Workshop on Multimedia Assisted Dietary Management, Portugal (2022)"
+            - "INRAE, Paris (2022)"
+            - "University of Barcelona, Spain (2022)"
+            - "Food and Agricultural Organization, Italy (2022)"
 
 - title: Honors and Awards
   type: time_table
