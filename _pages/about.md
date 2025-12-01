@@ -35,4 +35,4 @@ I have expertise in Python, R, SQL, PyTorch, TensorFlow, and LangChain.
 
 Outside of work, I enjoy science communication and mentoring people from diverse backgrounds.
 
-I am on the industry and academic job market with an expected graduation date of August 2026.
+<p style="font-weight: 600; font-size: 1.15em; font-style: italic; color: var(--global-theme-color); margin-top: 1.5em; padding: 1em 1.25em; background-color: rgba(138, 43, 226, 0.1); border-left: 5px solid var(--global-theme-color); border-radius: 4px;"><strong>I am on the industry and academic job market with an expected graduation date of August 2026.</strong></p>
