@@ -34,3 +34,5 @@ I am the recipient of UC Irvine's Beall Family Entrepreneur Award, the TU Munich
 I have expertise in Python, R, SQL, PyTorch, TensorFlow, and LangChain.
 
 Outside of work, I enjoy science communication and mentoring people from diverse backgrounds.
+
+I am on the industry and academic job market with an expected graduation date of August 2026.
