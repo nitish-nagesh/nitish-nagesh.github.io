@@ -3,7 +3,7 @@ layout: page
 permalink: /projects/
 title: projects
 description: Research and course projects
-nav: true
+nav: false
 nav_order: 3
 ---
 

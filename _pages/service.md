@@ -3,7 +3,7 @@ layout: page
 permalink: /service/
 title: leadership & service
 description: Community engagement and service activities
-nav: true
+nav: false
 nav_order: 7
 ---
 

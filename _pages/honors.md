@@ -3,7 +3,7 @@ layout: page
 permalink: /honors/
 title: honors & awards
 description: Recognition and achievements
-nav: true
+nav: false
 nav_order: 4
 ---
 
