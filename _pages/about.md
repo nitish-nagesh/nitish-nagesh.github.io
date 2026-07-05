@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Computer Science, UC Irvine
 
 profile:
   align: right
-  image: nitish_prof_pic_02.jpg
+  image: Headshot_Nitish_Nagesh_2026.jpg
   image_circular: false # crops the image to make it circular
   image_alt: Nitish Nagesh - Ph.D. Candidate in Computer Science at UC Irvine
   more_info: >
@@ -34,4 +34,7 @@ I am the recipient of UC Irvine's Beall Family Entrepreneur Award, the TU Munich
 I have expertise in Python, R, SQL, PyTorch, TensorFlow, and LangChain.
 
 Outside of work, I enjoy science communication and mentoring people from diverse backgrounds.
+
+I am on the industry and academic job market (expected start date Fall 2026) and looking for research scientist/data scientist/applied machine learning scientist/postdoctoral scholar roles in the U.S.
+
 
